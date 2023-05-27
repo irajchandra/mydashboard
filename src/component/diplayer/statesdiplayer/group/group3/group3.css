@@ -1,0 +1,77 @@
+.group3-wrapper {
+  position: absolute;
+  width: 241.17px;
+  height: 190.52px;
+  top: 216.87px;
+  background: #f6f6fb;
+  border-radius: 32px;
+  display: flex;
+}
+
+.group3-wrapper > .text1 {
+  position: absolute;
+  width: 104.51px;
+  height: 37.71px;
+  left: 20px;
+  top: 85px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 38px;
+  color: #2b2f42;
+}
+
+.group3-wrapper > .usericon-wrapper {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 30px;
+  top: 20px;
+  background: rgba(197, 189, 189, 0.04);
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+
+.group3-wrapper > .downarrow-wrapper {
+  position: absolute;
+  width: 120px;
+  height: 6.77px;
+  left: 160px;
+  top: 42px;
+  border-radius: 1px;
+  display: flex;
+  justify-content: cneter;
+  align-items: center;
+  gap: 5px;
+
+}
+
+
+.group3-wrapper > .downarrow-wrapper > span {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+  color: #000000;;
+}
+
+.group3-wrapper > .text3 {
+  position: absolute;
+  width: 120px;
+  height: 15.88px;
+  left: 20px;
+  top: 130px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2B2F42;
+  opacity: 0.72;
+}

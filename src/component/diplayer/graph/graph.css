@@ -1,0 +1,59 @@
+.graph-displayer{
+  box-sizing: border-box;
+  position: absolute;
+  width: 506.46px;
+  height: 407.55px;
+  left: 326px;
+  top: 225px;
+  background-color: rgba(237, 237, 246, 0.4);
+  border: 1px solid #f6f6fb;
+  border-radius: 32px;
+}
+
+.graph-displayer > .text1 {
+  position: absolute;
+  width: 92.45px;
+  height: 31.43px;
+  left: 36.18px;
+  top: 28.43px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: -0.02em;
+  color: #000000;
+}
+
+.graph-displayer > .text2 {
+  position: absolute;
+  width: 124.6px;
+  height: 37.32px;
+  left: 370.8px;
+  top: 21.55px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #7166f9;
+}
+
+hr {
+  position: absolute;
+  width: 443.15px;
+  height: 0.98px;
+  left: 36.18px;
+  top: 87.35px;
+  background: #c4c4c4;
+  opacity: 0.5;
+}
+
+
+.graph-container{
+  position: absolute;
+  width: 443.15px;
+  height: 249.44px;
+  left: 36.18px;
+  top: 108.95px ;
+}

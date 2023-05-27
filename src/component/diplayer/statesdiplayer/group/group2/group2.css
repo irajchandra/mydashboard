@@ -1,0 +1,87 @@
+.group2-wrapper {
+  position: absolute;
+  width: 241.17px;
+  height: 190.52px;
+  left: 265.17px;
+  background: #f6f6fb;
+  border-radius: 32px;
+}
+
+
+
+.group2-wrapper > .text1 {
+  position: absolute;
+  width: 104.51px;
+  height: 37.71px;
+  left: 20px; 
+  top: 85px; 
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 38px;
+  color: #2B2F42;
+}
+
+.group2-wrapper > .calandericon-wrapper {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  left: 30px;
+  top: 20px;
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0;
+}
+
+.group2-wrapper > .uparrow-wrapper {
+  position: absolute;
+  width: 120px;
+  height: 6.77px;
+  left: 176.86px;
+  top: 42px;
+  border-radius: 1px;
+  display: flex;
+  justify-content: cneter;
+  align-items: center;
+  gap: 5px;
+}
+
+.group2-wrapper > .uparrow-wrapper > span {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+  color: #2B2F42;
+}
+
+
+.group2-wrapper > .text3 {
+  position: absolute;
+  width: 139.68px;
+  height: 16.69px;
+  left: 20px;
+  top: 130px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2B2F42;
+}
+
+.group2-wrapper > .question-circle-wrapper {
+  position: absolute;
+  width: 32.16px;
+  height: 31.75px;
+  left: 160px;
+  top: 120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+}

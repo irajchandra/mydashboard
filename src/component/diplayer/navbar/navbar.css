@@ -1,0 +1,343 @@
+.navbar {
+  position: absolute;
+  width: 1039px;
+  height: 147.06px;
+  left: 317px;
+  top: 25px;
+}
+
+/* CSS  for Top section of Nav Bar */
+
+.group1 {
+  position: absolute;
+  width: 1030px;
+  height: 50.11px;
+  top: 25px;
+}
+
+.group1 > .left {
+  position: absolute;
+  width: 246px;
+  height: 50.03px;
+  align-items: center;
+}
+
+.group1 > .right {
+  position: absolute;
+  width: 204px;
+  height: 45px;
+  left: 826px;
+  display: flex;
+  align-items: center;
+}
+
+.keybasewrapper {
+  position: absolute;
+  width: 52px;
+  height: 50.03px;
+  background: #f6f6fb;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left > .selectdropdown {
+  position: absolute;
+  width: 120px;
+  height: 22.13px;
+  left: 60px;
+}
+
+.left > .selectdropdown > select {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+  border: none;
+  &:hover {
+    color: #7166f9;
+  }
+}
+
+.left > .pluswrapper {
+  position: absolute;
+  width: 40px;
+  height: 38.49px;
+  left: 200px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.right > .profileicon {
+  position: absolute;
+  width: 43px;
+  height: 45px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border-radius: 12px;
+}
+
+.right > .selectdropdown {
+  position: absolute;
+  width: 120px;
+  height: 22.13px;
+  left: 50px;
+}
+
+.right > .selectdropdown > select {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+  border: none;
+  &:hover {
+    color: #7166f9;
+  }
+}
+
+/* CSS For Middle Section of Nav Bar  */
+
+.group2 {
+  position: absolute;
+  width: 1028px;
+  height: 0.98px;
+  top: 77.94px;
+  background: #f6f6fb;
+}
+
+/* CSS For Bottom section of Nav Bar  */
+
+.group3 {
+  position: absolute;
+  width: 1030px;
+  height: 52px;
+  top: 120.06px;
+}
+
+.group3 > h1 {
+  position: absolute;
+  width: 266px;
+  height: 44.26px;
+  font-family: "Alatsi";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 46px;
+  color: #575353;
+}
+
+.group3 > .questionwrapper {
+  position: absolute;
+  width: 50px;
+  height: 48.49px;
+  border-radius: 50%;
+  left: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.group3 > .questionwrapper > img {
+  position: absolute;
+  left: 44.29%;
+  right: 53.98%;
+  top: 14.84%;
+  bottom: 82.57%;
+}
+
+.group3 > .frames {
+  position: absolute;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: flex-start;
+  gap: 5px;
+  left: 642px;
+  width: 398px;
+  height: 52px;
+}
+
+.frame1 {
+  position: absolute;
+  width: 92px;
+  height: 52px;
+  background: #7166f9;
+  border-radius: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frame1 > h1 {
+  width: 44px;
+  height: 32px;
+  font-size: 14px;
+  line-height: 32px;
+  font-family: "Neuton";
+  font-style: normal;
+  letter-spacing: -0.005em;
+  color: #f6f6fb;
+}
+
+.frame2 {
+  position: absolute;
+  width: 92px;
+  height: 52px;
+  left: 100px;
+  background: #f6f6fb;
+  border-radius: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &:hover {
+    background-color: #7166f9;
+  }
+}
+
+.frame2 > h1 {
+  width: 44px;
+  height: 32px;
+  font-size: 14px;
+  line-height: 32px;
+  font-family: "Neuton";
+  font-style: normal;
+  letter-spacing: -0.005em;
+  color: #7166f9;
+  &:hover {
+    color: #f6f6fb;
+  }
+}
+
+.frame3 {
+  position: absolute;
+  width: 95px;
+  height: 52px;
+  left: 200px;
+  background: #f6f6fb;
+  border-radius: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &:hover {
+    background-color: #7166f9;
+  }
+}
+
+.frame3 > h1 {
+  width: 60px;
+  height: 32px;
+  font-size: 14px;
+  line-height: 32px;
+  font-family: "Neuton";
+  font-style: normal;
+  letter-spacing: -0.005em;
+  color: #7166f9;
+  &:hover {
+    color: #f6f6fb;
+  }
+}
+
+.frame4 {
+  position: absolute;
+  width: 95px;
+  height: 52px;
+  left: 303px;
+  background: #f6f6fb;
+  border-radius: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &:hover {
+    background-color: #7166f9;
+  }
+}
+
+.frame4 > h1 {
+  width: 60px;
+  height: 32px;
+  font-size: 14px;
+  line-height: 32px;
+  font-family: "Neuton";
+  font-style: normal;
+  letter-spacing: -0.005em;
+  color: #7166f9;
+  &:hover {
+    color: #f6f6fb;
+  }
+}
+
+/* This css for Without Dropdown for left 
+
+ .left > h1 {
+  position: absolute;
+  width: 120px;
+  height: 22.13px;
+  left: 60px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.left > .dropdownwrapper {
+  position: absolute;
+  width: 24px;
+  height: 23.09px;
+  left: 165px;
+  background: #f6f6fb;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* This css for Without Dropdown for left 
+ .right > h1 {
+  position: absolute;
+  width: 120px;
+  height: 22.13px;
+  left: 50px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.right > .dropdownwrapper {
+  position: absolute;
+  width: 24px;
+  height: 23.09px;
+  left:175px;
+  background: #f6f6fb;
+  border-radius: 4px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+/* 
+.left > .pluswrapper > .colorplusicon {
+  position: absolute;
+  left: 37.93%;
+  right: 60.36%;
+  bottom: 93.05%; 
+  background: #7166f9;
+} */
+/* .keybaseicon {
+  position: absolute;
+  left: 50%;
+  right: 50% ;
+  right: 74.75%;
+  top: 4.38%;
+  bottom: 93.28%;
+  background: #e17cfd;
+} */
